@@ -22,3 +22,4 @@ if (isset($_REQUEST['uid']) && isset($_REQUEST['pwd']) && isset($_REQUEST['phone
         echo $res;
     exit;
 }
+?>
