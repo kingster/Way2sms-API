@@ -104,4 +104,4 @@ function sendWay2SMS($uid, $pwd, $phone, $msg)
   curl_close($curl);
   return $result;
 }
-
+?>
