@@ -144,4 +144,4 @@ function sendWay2SMS($uid, $pwd, $phone, $msg)
     $client->logout();
     return $result;
 }
-
+?>
