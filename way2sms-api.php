@@ -145,3 +145,4 @@ function sendWay2SMS($uid, $pwd, $phone, $msg)
     return $result;
 }
 
+?>
